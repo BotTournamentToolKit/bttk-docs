@@ -107,3 +107,31 @@ TODO
 - CodeCov for coverage reports
 - Pre-commit for hooks
 - TODO: Maybe other services for something else?
+
+## Commit naming conventions:
+
+- Write in English only
+- Write in infinitive 
+  Do this
+  ```
+  add function foo
+  ```
+  Not this
+  ```
+  added function foo
+  ```
+- Make the first commit line (the title) a summary of a commit, 
+  then write down details on other lines
+  
+- If closing some issue, tag it in a commit (TODO Tutorial)
+
+## Branch hygiene:
+
+- Create a branch for every feature you want to add.
+- Rules for commit titles apply to branch names
+- Use `-` for as word separators, not `_` (`function-foo`, not `function_foo`)
+- Use `feature-{name}`, when implementing features, `fix-{name}`, when fixing bugs, `misc-{name}` when doing something else. This list isn't complete - you can propose new prefixes!
+- Do not merge to `master` - open a pull request instead! This way your code can be checked before merge.
+- Do not, under any circumstances, commit anything to `master`, period. Make a branch, implement a change, make a PR.
+  - This does not apply when initializing repositories, obviously. Make a thing that builds, *then* freeze master.
+- Mark versions with tags formatted as `v{major}.{minor}.{patch}`. Patches do not change functionality significantly, minor versions don't introduce breaking changes. Consult with others before pushing a tag, please!
