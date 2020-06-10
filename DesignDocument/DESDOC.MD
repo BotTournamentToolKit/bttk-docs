@@ -120,6 +120,7 @@ TODO
   ```
   added function foo
   ```
+- Start titles with lowercase. Do not end titles with `.` (`add foo`, not `Add foo.`)
 - Make the first commit line (the title) a summary of a commit, 
   then write down details on other lines
   
