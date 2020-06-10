@@ -5,6 +5,7 @@
 This is an open-source tool written as a school project. Right now it's in very early stage of development.
 ## Documentation
 TODO: Add DesDocs and maybe CoC? 
+Update
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MTA2Mzk5LC04OTc0NzIyNjddfQ==
+eyJoaXN0b3J5IjpbOTg2NjMwODUyLC04OTc0NzIyNjddfQ==
 -->
