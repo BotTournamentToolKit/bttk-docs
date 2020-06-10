@@ -6,8 +6,7 @@ This is an open-source tool written as a school project. Right now it's in very 
 ## Documentation
 TODO: Add DesDocs and maybe CoC? 
 
-I am here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE2ODQ4NTIsMTIwNjY2MDE0OSwtOD
-k3NDcyMjY3XX0=
+eyJoaXN0b3J5IjpbLTYzOTM4NTAxMSwtMTE5MTY4NDg1MiwxMj
+A2NjYwMTQ5LC04OTc0NzIyNjddfQ==
 -->
