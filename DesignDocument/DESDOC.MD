@@ -108,7 +108,7 @@ TODO
 - Pre-commit for hooks
 - TODO: Maybe other services for something else?
 
-## Commit naming conventions:
+## Commit naming conventions
 
 - Write in English only
 - Write in infinitive 
@@ -123,10 +123,9 @@ TODO
 - Start titles with lowercase. Do not end titles with `.` (`add foo`, not `Add foo.`)
 - Make the first commit line (the title) a summary of a commit, 
   then write down details on other lines
-  
 - If closing some issue, tag it in a commit (TODO Tutorial)
 
-## Branch hygiene:
+## Branch hygiene
 
 - Create a branch for every feature you want to add.
 - Rules for commit titles apply to branch names
