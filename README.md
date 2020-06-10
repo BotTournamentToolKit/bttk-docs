@@ -4,7 +4,7 @@
 
 This is an open-source tool written as a school project. Right now it's in very early stage of development.
 ## Documentation
-TODO: Add DesDocs and maybe CoC?
+- [Design document](DesignDocument/DESDOC.MD)
 
 ## Roadmap
 TODO: Add roadmap
