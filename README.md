@@ -11,14 +11,14 @@ This is an open-source tool written as a school project. Right now it's in very 
     - [x] Draft a design document
     - [ ] Initialize code repositories
         - [ ] Front-end
-        - [ ] Back-end
+        - [x] Back-end
     - [ ] Write a minimal running boilerplate
     - [ ] Write a minimal test suite
-        - [ ] Find a test framework
-            - [ ] Python
-            - [ ] TS
+        - [x] Find a test framework
+            - [x] Python
+            - [x] TS
         - [ ] Write tests
-            - [ ] Python
+            - [x] Python
             - [ ] TS
     - [ ] Write a minimal DevOps configuration
         - [ ] GitHub Actions
